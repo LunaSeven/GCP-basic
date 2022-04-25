@@ -1,0 +1,6 @@
+# Ignore everything inside google-cloud-sdk/ directory
+google-cloud-sdk/**
+# Ignore everything inside gcloud-key/ directory
+gcloud-key/**
+
+*.gz
